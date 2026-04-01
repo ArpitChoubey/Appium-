@@ -1,4 +1,4 @@
-# Appium Automation Framework (Java)
+# Mobile Test Automation Framework Appium Java
 
 This repository contains a **mobile automation framework built using Appium and Java**.  
 It demonstrates **SDET-level automation skills** for testing **Android and iOS applications**, including gestures, device interactions, and real mobile app scenarios.
